@@ -28,7 +28,7 @@
     <p>
         Copy CSS &lt;link&gt; tags to the <i>kinziPrint</i> iframe. True by default.
     </p>
-    <h3>importStyle (<i>boolean</i>)</h3>
+    <h3>importStyles (<i>boolean</i>)</h3>
     <p>
         Copy CSS &lt;style&gt; tags to the <i>kinziPrint</i> iframe. False by default.
     </p>
