@@ -44,6 +44,10 @@
     <p>
         The amount of time to wait before calling print() in the <i>kinziPrint</i> iframe,  Defaults to 500 milliseconds.
     </p>
+    <h3>base (<i>string</i>)</h3>
+    <p>
+        The BASE tag in the <i>kinziPrint</i> iframe.
+    </p>	
     <h3>header and footer (<i>string</i>)</h3>
     <p>
         <pre>
